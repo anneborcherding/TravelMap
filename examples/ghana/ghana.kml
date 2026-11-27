@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ghana</name>
+    <description>A 46-day road trip from Accra through the Volta and Ashanti regions and northern Ghana to Takoradi. AI-generated test data.</description>
+    <Placemark id="visit-1">
+      <name>Accra</name>
+      <description>Days 1–2</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>1</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-01</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.1870,5.6037,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-2">
+      <name>Aburi</name>
+      <description>Days 3–4</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>2</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-03</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.1748,5.8503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-3">
+      <name>Koforidua</name>
+      <description>Days 5–6</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>3</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-05</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.2591,6.0940,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-4">
+      <name>Akosombo</name>
+      <description>Days 7–8</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>4</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-07</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0.0500,6.3000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-5">
+      <name>Ho</name>
+      <description>Days 9–10</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>5</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-09</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0.4714,6.6111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-6">
+      <name>Hohoe</name>
+      <description>Days 11–12</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>6</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-11</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0.4736,7.1518,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-7">
+      <name>Kpando</name>
+      <description>Days 13–14</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>7</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-13</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>0.2931,6.9954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-8">
+      <name>Nkawkaw</name>
+      <description>Days 15–16</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>8</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-15</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.7662,6.5524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-9">
+      <name>Konongo</name>
+      <description>Days 17–18</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>9</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-17</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.2167,6.6167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-10">
+      <name>Kumasi</name>
+      <description>Days 19–20</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>10</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-19</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.6244,6.6885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-16">
+      <name>Kintampo</name>
+      <description>Days 21–22</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>11</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-21</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.73058,8.05627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-17">
+      <name>Tamale</name>
+      <description>Days 23–24</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>12</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-23</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.83333,9.40000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-18">
+      <name>Yendi</name>
+      <description>Days 25–26</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>13</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-25</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.00991,9.44272,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-19">
+      <name>Nalerigu</name>
+      <description>Days 27–28</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>14</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-27</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.36982,10.52726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-20">
+      <name>Bolgatanga</name>
+      <description>Days 29–30</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>15</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-01</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-0.85139,10.78556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-21">
+      <name>Navrongo</name>
+      <description>Days 31–32</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>16</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-03</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.09083,10.89469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-22">
+      <name>Wa</name>
+      <description>Days 33–34</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>17</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-05</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-2.50192,10.06069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-23">
+      <name>Damongo</name>
+      <description>Days 35–36</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>18</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-07</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.81884,9.08296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-11">
+      <name>Obuasi</name>
+      <description>Days 37–38</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>19</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-09</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.6716,6.2012,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-12">
+      <name>Dunkwa-on-Offin</name>
+      <description>Days 39–40</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>20</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-11</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.7833,5.9667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-13">
+      <name>Cape Coast</name>
+      <description>Days 41–42</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>21</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-13</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.2466,5.1053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-14">
+      <name>Elmina</name>
+      <description>Days 43–44</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>22</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-15</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.3482,5.0847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-15">
+      <name>Takoradi</name>
+      <description>Days 45–46</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>23</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-03-17</value>
+        </Data>
+        <Data name="country">
+          <value>Ghana</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-1.7554,4.8845,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

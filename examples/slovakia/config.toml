@@ -1,0 +1,122 @@
+# TravelMap settings. Edit this file, save, then choose Reload config file.
+# poster.title is independent of the itinerary title.
+# Sizes are millimetres; distances are kilometres; colors use #RRGGBB.
+# Commented optional values are examples, not active settings.
+# Remove travel_days_override to calculate duration from itinerary dates.
+# country_ids/country_codes: omit or [] to select countries containing stops.
+# Use only one of country_ids and country_codes. Paths stay inside this workspace.
+# Never put API keys here; api_key_env is an environment-variable name only.
+
+[poster]
+title = "Slovakia"
+subtitle = "{total_days} days of mountains, bears, and garlic soup"
+width_mm = 594.0
+height_mm = 841.0
+margin_mm = 50.0
+orientation = "landscape"
+design = "standard"
+title_case = "uppercase"
+title_position = "bottom"
+
+[map]
+projection = "auto"
+framing = "countries"
+fill_land = true
+include_offshore_components = false
+padding_percent = 8.0
+show_state_borders = false
+sources = []
+show_country_borders = true
+show_stop_markers = false
+show_place_labels = false
+
+[map.boundaries]
+# country_path = "map-data/countries.gpkg"
+# country_codes = ["ARG", "CHL"]
+# country_ids = ["ARG", "CHL"]
+# admin1_path = "map-data/states.gpkg"
+# country_layer = "countries"
+# admin1_layer = "admin1"
+
+[map.routing]
+enabled = true
+api_key_env = "OPENROUTESERVICE_API_KEY"
+# cache = "manual-routes/routes.geojson"
+modes = ["bus", "car", "train", "walk"]
+unreachable = "error"
+preference = "recommended"
+avoid_features = []
+request_delay_s = 2.0
+merge_nearby_routes = false
+nearby_route_merge_tolerance_mm = 0.1
+
+[map.routing.profiles]
+car = "driving-car"
+walk = "foot-walking"
+
+[map.roads]
+enabled = true
+paths = []
+layer = "lines"
+highway_classes = ["motorway", "trunk", "primary", "secondary", "tertiary"]
+# highway_classes = ["motorway", "trunk", "primary", "secondary", "tertiary", "motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link", "residential", "unclassified"]
+
+[map.water]
+enabled = false
+paths = []
+line_layer = "water_lines"
+area_layer = "water_areas"
+line_classes = ["canal"]
+area_classes = ["water", "lake", "river"]
+min_area_km2 = 1.0
+simplify_geometry = true
+simplify_tolerance_mm = 0.2
+
+[map.distance]
+# travel_days_override = 14
+
+[map.distance.segment_overrides_km]
+
+[map.scale]
+enabled = false
+distance_km = 100.0
+segments = 4
+position = "bottom-left"
+inset_mm = 8.0
+height_mm = 3.0
+caption = "SCALE • APPROXIMATE"
+# color = "#263238"
+number_position = "bottom"
+
+[style]
+background = "#F7F4EE"
+land = "#F7F4EE"
+road = "#47433D"
+road_width_mm = 0.15
+road_opacity = 0.7
+water_line = "#747A77"
+water_area = "#D4D5CF"
+water_width_mm = 0.2
+water_line_opacity = 0.45
+water_area_opacity = 1.0
+border = "#5E5953"
+route = "#4481bd"
+route_colors = []
+stop = "#263238"
+label = "#263238"
+route_width_mm = 1
+stop_radius_mm = 1.8
+route_opacity = 1.0
+font_family = "Source Sans 3"
+title_font_family = "Cormorant Garamond"
+title_font_size_mm = 20
+subtitle_font_size_mm = 12
+boundary_width_mm = 0.3
+title_subtitle_gap_mm = 14
+
+[style.route_dash_patterns]
+
+[style.route_colors_by_mode]
+
+[output]
+incomplete_distance = "omit"

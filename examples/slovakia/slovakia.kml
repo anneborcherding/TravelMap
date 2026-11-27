@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Slovakia</name>
+    <description>Ten sample stops from Bratislava to Michalovce. AI-generated test data.</description>
+    <Placemark id="visit-1">
+      <name>Bratislava</name>
+      <description>Bratislava Castle overlooking the Danube.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>1</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-01</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>17.1001,48.1421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-2">
+      <name>Piešťany</name>
+      <description>Spa town on the Váh River.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>2</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-03</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>17.8419,48.5889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-3">
+      <name>Banská Štiavnica</name>
+      <description>Historic mining town and UNESCO World Heritage Site.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>3</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-05</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>18.8939,48.4592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-4">
+      <name>Bojnice Castle</name>
+      <description>Romantic hilltop castle.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>4</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-07</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>18.5776,48.7796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-5">
+      <name>Vlkolínec</name>
+      <description>UNESCO-listed village of traditional timber houses.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>5</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-09</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>19.2785,49.0390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-6">
+      <name>High Tatras (Štrbské Pleso)</name>
+      <description>Mountain lake and trailhead in the High Tatras.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>6</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-11</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>20.0604,49.1195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-7">
+      <name>Slovak Paradise National Park (Podlesok)</name>
+      <description>Trailhead for Suchá Belá gorge.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>7</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-13</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>20.3852,48.9648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-8">
+      <name>Spiš Castle</name>
+      <description>UNESCO-listed castle ruins above Spišské Podhradie.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>8</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-15</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>20.7682,48.9994,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-9">
+      <name>Bardejov</name>
+      <description>UNESCO-listed medieval town centre.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>9</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-17</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2755,49.2927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-10">
+      <name>Michalovce</name>
+      <description>Final stop in eastern Slovakia.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>10</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2026-07-19</value>
+        </Data>
+        <Data name="country">
+          <value>Slovakia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.9054,48.7491,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

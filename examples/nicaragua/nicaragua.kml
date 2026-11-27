@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nicaragua</name>
+    <description>A 34-day itinerary from Managua through the northern highlands, Pearl Lagoon, and Ometepe to San Juan del Sur. AI-generated test data.</description>
+    <Placemark id="visit-1">
+      <name>Managua</name>
+      <description>Days 1–2. Start in the capital.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>1</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-01</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.2734,12.1364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-2">
+      <name>León</name>
+      <description>Days 3–4. Visit the cathedral in the historic center.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>2</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-03</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.8780,12.4344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-3">
+      <name>Chinandega</name>
+      <description>Days 5–6. Explore the city center.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>3</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-05</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.1310,12.6294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-4">
+      <name>El Viejo</name>
+      <description>Days 7–8. Visit the basilica near the central square.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>4</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-07</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.1689,12.6633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-5">
+      <name>Somoto</name>
+      <description>Days 9–10. Base for a visit to Somoto Canyon.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>5</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-09</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.5833,13.4833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-6">
+      <name>Estelí</name>
+      <description>Days 11–12. Spend time in the northern highlands.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>6</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-11</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.3538,13.0919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-7">
+      <name>Jinotega</name>
+      <description>Days 13–14. Explore the city in Nicaragua’s coffee-growing highlands.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>7</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-13</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.0023,13.0917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-8">
+      <name>Matagalpa</name>
+      <description>Days 15–16. Visit the city center and surrounding coffee country.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>8</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-15</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.9175,12.9256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-9">
+      <name>Boaco</name>
+      <description>Days 17–18. Stop in the hill town on the way south.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>9</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-17</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.6586,12.4717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-10">
+      <name>Juigalpa</name>
+      <description>Days 19–20. Explore the capital of Chontales.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>10</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-19</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.3645,12.1063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-16">
+      <name>Pearl Lagoon</name>
+      <description>Days 21–22. Visit the Caribbean coastal town of Laguna de Perlas.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>11</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-21</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.6729,12.3380,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-11">
+      <name>Tipitapa</name>
+      <description>Days 23–24. Continue west toward the Managua area.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>12</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-23</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.0971,12.1973,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-12">
+      <name>Masaya</name>
+      <description>Days 25–26. Visit the artisan market.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>13</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-25</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.0942,11.9744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-13">
+      <name>Granada</name>
+      <description>Days 27–28. Explore the historic center near Lake Nicaragua.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>14</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-27</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.9560,11.9344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-14">
+      <name>Rivas</name>
+      <description>Days 29–30. Stop on the isthmus between the lake and the Pacific.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>15</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-29</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.8263,11.4373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-17">
+      <name>Punta San Pedro (Ometepe)</name>
+      <description>Days 31–32. Reach Ometepe by ferry from San Jorge.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>16</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-01-31</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.47332,11.41112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="visit-15">
+      <name>San Juan del Sur</name>
+      <description>Days 33–34. Finish on the Pacific coast.</description>
+      <ExtendedData>
+        <Data name="sequence">
+          <value>17</value>
+        </Data>
+        <Data name="arrival_date">
+          <value>2027-02-02</value>
+        </Data>
+        <Data name="country">
+          <value>Nicaragua</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.8705,11.2529,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
